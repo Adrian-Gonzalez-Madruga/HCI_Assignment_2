@@ -1,7 +1,7 @@
 # HCI_Assignment_2
 This is a Covid App with many features as to track the progress of covid within canada, devise if the user has been in contact with anyone who may be positive, view covid news, access a forum to ask questions, and recieve official information about covid.
 
-[Interact With The App Here](https://www.figma.com/file/hjUMSnI6iCrXtievJCdP52/HIC-Covid-App-2?node-id=0%3A1)
+[Interact With The App Here](https://www.figma.com/proto/hjUMSnI6iCrXtievJCdP52/HIC-Covid-App-2?node-id=1%3A5&scaling=scale-down)
 
 ## Features
 *	After logging in the app tracks the locations the user has went at what time throughout the day

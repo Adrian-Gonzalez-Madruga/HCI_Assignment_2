@@ -21,7 +21,7 @@ This is a Covid App with many features as to track the progress of covid within 
 ## View Project
 Click below to view video of the project being used
 
-[![CloudClientr Youtube](https://i9.ytimg.com/vi/I3wWUeameHs/mq1.jpg?sqp=COjhsv0F&amp;rs=AOn4CLCGojkGjUdmwAreSixRCcpWw-Ynlw)](https://youtu.be/I3wWUeameHs "HCI Assignment 2")
+[![HCI Assignment 2 Youtube](https://i9.ytimg.com/vi/Kb4vNi0WCJk/mq1.jpg)](https://youtu.be/Kb4vNi0WCJk "HCI Assignment 2")
 
 ## Built With
 

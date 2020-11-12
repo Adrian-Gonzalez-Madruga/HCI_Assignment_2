@@ -29,15 +29,11 @@ Click below to view video of the project being used
 
 ## Flaws, Fixes, and TODO
 
-* Minor code redundancy - Reformatting and applying design pattern to improve efficiency
-* Code to select file cannot be over 9 - Use Regex to cut code segments alowwing for unlimited length
-* Notifications Sometimes Will Stay In Downloading State Or Cannot Be Removed
-* ReSend JSON File Directory After Upload To See New File (At Current Must LogOut and LogIn to Recieve File)
-* Add Catching For Loss Of Connection While Uploading/Downloading
-* Add Folder Creation Button - TODO
-* Add Delete Item Button- TODO
-* Add Encryption Whilst Sending Credentials and Files - TODO
-* Add Errors From Server - TODO
+* Add Icons next to new buttons to add a visual queue to functionality
+* Restructure application to include cards and normalize button locations
+* Create a self disagnosis screen so the user may ascertain if they have the virus or not
+* Allow for a checklist of mitigation strategies to reduce social interaction
+* Allow the user to get knowledge on restrictions by area and new laws as to reduce confusion ie/ new flight protocols
 
 
 ## Authors

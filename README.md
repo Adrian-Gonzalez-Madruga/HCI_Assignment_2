@@ -21,7 +21,7 @@ This is a Covid App with many features as to track the progress of covid within 
 ## View Project
 Click below to view video of the project being used
 
-[![HCI Assignment 2 Youtube](https://i9.ytimg.com/vi_webp/Kb4vNi0WCJk/mqdefault.webp?time=1605154500000&amp;sqp=CMTtsv0F&amp;rs=AOn4CLAjEExXPkwMWp7di3coW6TbMfLbGg)](https://youtu.be/Kb4vNi0WCJk "HCI Assignment 2")
+[![HCI Assignment 2 Youtube](https://i9.ytimg.com/vi/Kb4vNi0WCJk/mq1.jpg?sqp=CPS4tv0F&rs=AOn4CLBZeSXRs-Mpfymf_erMzL_6zgjjqw)](https://youtu.be/Kb4vNi0WCJk "HCI Assignment 2")
 
 ## Built With
 
